@@ -3,4 +3,5 @@ tensorflow
 jupyter
 gym
 pyglet
+matplotlib
 plotly
